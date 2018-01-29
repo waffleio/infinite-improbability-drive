@@ -1,0 +1,21 @@
+{
+  "name": "infinite-probability-drive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/waffleio/infinite-probability-drive.git",
+  "author": "Zaphod Beeblebrox and Trillian",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha '*spec.js'"
+  },
+  "dependencies": {
+    "mocha": "^3.4.1"
+  },
+  "engines": {
+    "node": "8.9",
+    "npm": "5"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
